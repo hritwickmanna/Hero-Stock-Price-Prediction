@@ -1,4 +1,4 @@
-# ARIMA MODEL (HS30096)
+# ARIMA MODEL 
 
 The Autoregressive integrated moving average (ARIMA) model uses time-series data and statistical analysis to interpret the data and make future predictions. The model aims to explain data by using time series data on its past values and uses linear regression to make predictions.
 
